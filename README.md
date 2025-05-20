@@ -146,13 +146,23 @@
 
 ## 📩 贡献
 
-欢迎通过以下方式为本项目做出贡献：
+我们非常欢迎您通过提交新论文、改进分类或优化仓库结构来为本项目做出贡献！
+
+### 🔍 如何提交新论文？
+
+我们提供了详细的贡献指南，特别是关于如何提交新论文的完整教程：
+
+👉 **[查看详细贡献指南](CONTRIBUTING.md)**
+
+贡献步骤概述：
 
 1. Fork 本仓库
-2. 创建新的分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
+2. 克隆仓库到本地
+3. 将论文添加到合适的分类目录
+4. 提交更改并推送到您的远程仓库
 5. 创建 Pull Request
+
+有关详细操作步骤、分类指南和最佳实践，请参阅我们的 [CONTRIBUTING.md](CONTRIBUTING.md) 文件。
 
 ## 📄 许可证
 
